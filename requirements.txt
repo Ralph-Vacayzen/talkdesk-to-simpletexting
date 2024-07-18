@@ -1,0 +1,5 @@
+oauth2client
+streamlit
+requests
+gspread
+pandas
